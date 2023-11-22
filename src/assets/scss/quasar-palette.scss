@@ -1,0 +1,39 @@
+@use './variables';
+
+.text-shipvagoo_primary {
+  // color: #ffffff !important;
+  color: #1f2124 !important;
+}
+
+.bg-shipvagoo_primary {
+  background-color: $btn-color !important;
+}
+
+.bg-shipvagoo_primary-three {
+  //background-color: #2929c8 !important;
+  background-color: #1f2124 !important;
+}
+
+.text-shipvagoo_primary-three {
+  color: #ffffff !important;
+}
+
+.bg-shipvagoo_danger {
+  background-color: #ff3d24 !important;
+}
+
+.text-shipvagoo_danger {
+  color: #ffffff !important;
+}
+
+.text-shipvagoo_fulfillment_color {
+  color: #389b99 !important;
+}
+
+.bg-shipvagoo_fulfillment_track {
+  background-color: #2929c8 !important;
+}
+
+.new_shipvagoo_bg {
+  background-color: #243E90 !important;
+}

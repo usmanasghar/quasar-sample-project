@@ -1,0 +1,412 @@
+{
+  "order_code": 1,
+  "integration_code": 1,
+  "company_code": 1,
+  "order_id": 1,
+  "order_number": 1021,
+  "order_status": "CREATED_SHIPMENT_LABEL",
+  "financial_status": "paid",
+  "billing_address": {
+    "zip": "2300",
+    "city": "København S",
+    "name": "Khawer Majeed",
+    "phone": "",
+    "company": "",
+    "country": "Denmark",
+    "address1": "Lergravsparken",
+    "address2": "23",
+    "province": "null",
+    "last_name": "Majeed",
+    "first_name": "Khawer",
+    "country_code": "DK",
+    "province_code": "null",
+    "country_name": "Denmark",
+    "default": true,
+    "customer_id": 1,
+    "email": "",
+    "id": 1,
+    "mobile": ""
+  },
+  "ordered_at": "2022-05-01T17:18:51+02:00",
+  "subtotal_price": 16,
+  "subtotal_price_set": {
+    "shop_money": {
+      "amount": "16.00",
+      "currency_code": "DKK"
+    },
+    "presentment_money": {
+      "amount": "16.00",
+      "currency_code": "DKK"
+    }
+  },
+  "taxes_included": false,
+  "total_discounts": null,
+  "total_price_set": {
+    "shop_money": {
+      "amount": "16.00",
+      "currency_code": "DKK"
+    },
+    "presentment_money": {
+      "amount": "16.00",
+      "currency_code": "DKK"
+    }
+  },
+  "customer": {
+    "customer_code": 2906536230,
+    "integration_code": 790324807,
+    "company_code": 701603370,
+    "country_code": 3421137111,
+    "customer_id": 123,
+    "email": "km@shipvagoo.com",
+    "first_name": "Khawer",
+    "last_name": "Majeed",
+    "accepts_marketing": 0,
+    "state": "disabled",
+    "tags": "",
+    "note": null,
+    "verified_email": 1,
+    "phone": "123123123",
+    "address1": "Mjolnir 25 t",
+    "address2": null,
+    "city": "Kobenhavn",
+    "zipcode": "2500",
+    "mobile": null,
+    "currency": "DKK",
+    "addresses": [],
+    "default_address": {
+      "zip": "2300",
+      "city": "København S",
+      "name": "Khawer Majeed",
+      "phone": "",
+      "company": "",
+      "country": "Denmark",
+      "address1": "Lergravsparken",
+      "address2": "23",
+      "province": "null",
+      "last_name": "Majeed",
+      "first_name": "Khawer",
+      "country_code": "DK",
+      "province_code": "null",
+      "country_name": "Denmark",
+      "default": true,
+      "customer_id": 1,
+      "id": 1
+    },
+    "company": null,
+    "integration": null,
+    "country": null,
+    "created_at": "2022-07-01T09:09:35.000000Z",
+    "updated_at": "2022-10-26T08:02:45.000000Z"
+  },
+  "fulfillment_status": "Fulfilled",
+  "current_total_price_set": {
+    "shop_money": { "amount": "16.00", "currency_code": "DKK" },
+    "presentment_money": { "amount": "16.00", "currency_code": "DKK" }
+  },
+  "current_total_tax_set": {
+    "shop_money": {
+      "amount": "0.00",
+      "currency_code": "DKK"
+    },
+    "presentment_money": {
+      "amount": "0.00",
+      "currency_code": "DKK"
+    }
+  },
+  "payment_gateway_names": ["shopify_payments"],
+  "shipping_address": {
+    "zip": "2300",
+    "city": "København S",
+    "name": "Khawer Majeed",
+    "phone": "null",
+    "company": "null",
+    "country": "Denmark",
+    "address1": "Lergravsparken",
+    "address2": "23",
+    "province": "null",
+    "last_name": "Majeed",
+    "first_name": "Khawer",
+    "country_code": "DK",
+    "province_code": "null",
+    "country_name": "Denmark",
+    "default": true,
+    "customer_id": 1,
+    "email": "null",
+    "id": 1,
+    "mobile": "null"
+  },
+  "delivery_template_code": 2993325467,
+  "return_template_code": null,
+  "shipping_lines": [
+    {
+      "id": 3751921680565,
+      "code": "GLS nærmeste pakkeshop",
+      "phone": null,
+      "price": "0.00",
+      "title": "GLS nærmeste pakkeshop",
+      "source": "shopify",
+      "price_set": {
+        "shop_money": {
+          "amount": "0.00",
+          "currency_code": "DKK"
+        },
+        "presentment_money": {
+          "amount": "0.00",
+          "currency_code": "DKK"
+        }
+      },
+      "tax_lines": [],
+      "discounted_price": "0.00",
+      "delivery_category": null,
+      "carrier_identifier": "650f1a14fa979ec5c74d063e968411d4",
+      "discount_allocations": [],
+      "discounted_price_set": {
+        "shop_money": {
+          "amount": "0.00",
+          "currency_code": "DKK"
+        },
+        "presentment_money": {
+          "amount": "0.00",
+          "currency_code": "DKK"
+        }
+      },
+      "requested_fulfillment_service_id": null
+    }
+  ],
+  "tax_lines": [],
+  "notes": null,
+  "note_attributes": [],
+  "status": false,
+  "delivery_template": null,
+  "return_template": null,
+  "events": [],
+  "line_items": [
+    {
+      "line_item_code": 237986121,
+      "order_code": 94468065,
+      "fulfillable_quantity": 0,
+      "fulfillment_service": "manual",
+      "fulfillment_status": null,
+      "gift_card": false,
+      "grams": 0,
+      "name": "Simple Star Map - A4(21x29,7cm)",
+      "price": "4.00",
+      "price_set": {
+        "shop_money": {
+          "amount": "4.00",
+          "currency_code": "DKK"
+        },
+        "presentment_money": {
+          "amount": "4.00",
+          "currency_code": "DKK"
+        }
+      },
+      "product_exists": false,
+      "product_id": 123,
+      "properties": [
+        {
+          "name": "Lokationen?",
+          "value": "København, Danmark"
+        },
+        {
+          "name": "Dato",
+          "value": "01-01-2020"
+        },
+        {
+          "name": "Sted?",
+          "value": "København"
+        },
+        {
+          "name": "Specielle anledning",
+          "value": "Den dag du sagde ja"
+        },
+        {
+          "name": "Farver",
+          "value": "#FFFFFF"
+        },
+        {
+          "name": "id",
+          "value": "#e53be837-f402-41b8-b798-1e3ae56d39e8"
+        },
+        {
+          "name": "_print_file",
+          "value": "https://cdn.posterlyapp.io/images/e53be837-f402-41b8-b798-1e3ae56d39e8.jpg"
+        },
+        {
+          "name": "_print_file_pdf",
+          "value": "https://app.posterlyapp.io/get_printfile.pdf?id=e53be837-f402-41b8-b798-1e3ae56d39e8"
+        }
+      ],
+      "quantity": 3,
+      "requires_shipping": true,
+      "sku": "custom_product_10020",
+      "taxable": true,
+      "title": "Simple Star Map",
+      "total_discount": "0.00",
+      "variant_id": 123,
+      "variant_inventory_management": "null",
+      "variant_title": "A4(21x29,7cm)",
+      "tax_lines": [],
+      "duties": [],
+      "discount_allocations": [],
+      "updated_at": "2022-10-10T00:29:16.000000Z",
+      "admin_graphql_api_id": "gid://shopify/LineItem/3751921680565",
+      "id": 3751921680565,
+      "origin_location": {
+        "id": 1,
+        "country_code": "DK",
+        "province_code": "null",
+        "address1": "Lergravsparken",
+        "address2": "23",
+        "city": "København S",
+        "zip": "2300",
+        "name": "Khawer Majeed"
+      },
+      "total_discount_set": {
+        "shop_money": {
+          "amount": "0.00",
+          "currency_code": "DKK"
+        },
+        "presentment_money": {
+          "amount": "0.00",
+          "currency_code": "DKK"
+        }
+      },
+      "vendor": "null"
+    },
+    {
+      "line_item_code": 1439501910,
+      "order_code": 94468065,
+      "fulfillable_quantity": 0,
+      "fulfillment_service": "manual",
+      "fulfillment_status": null,
+      "gift_card": false,
+      "grams": 0,
+      "name": "Simple Star Map - A4(21x29,7cm)",
+      "price": "4.00",
+      "price_set": {
+        "shop_money": {
+          "amount": "4.00",
+          "currency_code": "DKK"
+        },
+        "presentment_money": {
+          "amount": "4.00",
+          "currency_code": "DKK"
+        }
+      },
+      "product_exists": false,
+      "product_id": 1231,
+      "properties": [
+        {
+          "name": "Lokationen?",
+          "value": "København, Danmark"
+        },
+        {
+          "name": "Dato",
+          "value": "01-01-2020"
+        },
+        {
+          "name": "Sted?",
+          "value": "København"
+        },
+        {
+          "name": "Specielle anledning",
+          "value": "Den dag du sagde ja"
+        },
+        {
+          "name": "Farver",
+          "value": "#FFFFFF"
+        },
+        {
+          "name": "id",
+          "value": "#0586ce91-8d11-4afa-a95a-d39f72246c7b"
+        },
+        {
+          "name": "_print_file",
+          "value": "https://cdn.posterlyapp.io/images/0586ce91-8d11-4afa-a95a-d39f72246c7b.jpg"
+        },
+        {
+          "name": "_print_file_pdf",
+          "value": "https://app.posterlyapp.io/get_printfile.pdf?id=0586ce91-8d11-4afa-a95a-d39f72246c7b"
+        }
+      ],
+      "quantity": 1,
+      "requires_shipping": false,
+      "sku": "custom_product_10020",
+      "taxable": true,
+      "title": "Simple Star Map",
+      "total_discount": "0.00",
+      "variant_id": 123,
+      "variant_inventory_management": "null",
+      "variant_title": "A4(21x29,7cm)",
+      "tax_lines": [],
+      "duties": [],
+      "discount_allocations": [],
+      "admin_graphql_api_id": "gid://shopify/LineItem/11189278441653",
+      "id": 11189278441653,
+      "origin_location": {
+        "id": 123,
+        "country_code": "DK",
+        "province_code": "DK",
+        "name": "København",
+        "address1": "København",
+        "address2": "null",
+        "city": "København",
+        "zip": "1234"
+      },
+      "total_discount_set": {
+        "shop_money": {
+          "amount": "0.00",
+          "currency_code": "DKK"
+        },
+        "presentment_money": {
+          "amount": "0.00",
+          "currency_code": "DKK"
+        }
+      },
+      "updated_at": "2022-10-10T00:29:16.000000Z",
+      "vendor": "null"
+    }
+  ],
+  "fulfillments": [
+    {
+      "fulfillment_code": 150576454,
+      "name": "1021-0",
+      "order_code": 94468065,
+      "packaging_code": null,
+      "shipment_code": 3416864925,
+      "line_item_code": 237986121,
+      "is_cancelled": 0,
+      "quantity": 3,
+      "returned_quantity": 3,
+      "packaging": null,
+      "shipment": null,
+      "created_at": "2022-10-10T00:29:16.000000Z",
+      "updated_at": "2022-10-25T10:49:19.000000Z"
+    },
+    {
+      "fulfillment_code": 482973872,
+      "name": "1021-1",
+      "order_code": 94468065,
+      "packaging_code": null,
+      "shipment_code": 1484206748,
+      "line_item_code": 1439501910,
+      "is_cancelled": 0,
+      "quantity": 1,
+      "packaging": null,
+      "shipment": null,
+      "created_at": "2022-10-10T00:29:16.000000Z",
+      "updated_at": "2022-10-10T00:29:45.000000Z"
+    }
+  ],
+  "cancelled_fulfillments": null,
+  "sales_invoices": null,
+  "created_at": "2022-07-01T09:10:05.000000Z",
+  "updated_at": "2022-10-25T10:49:31.000000Z",
+  "created_by": 1,
+  "deleted_at": null,
+  "deleted_by": 0,
+  "is_deleted": false,
+  "total_price": 0,
+  "updated_by": 1
+}

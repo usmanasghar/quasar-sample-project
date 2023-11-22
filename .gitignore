@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+dist-ssr
+*.local
+.idea
+dist
+coverage
+package-lock.json
+yarn.lock
+.stylelintcache
+.env
+*.lock

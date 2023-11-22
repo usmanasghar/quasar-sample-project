@@ -1,0 +1,72 @@
+// @font-face {
+//   font-family: 'Circular Std';
+//   src: url('/src/assets/fonts/CircularStd-Medium.woff2') format('woff2'),
+//     url('/src/assets/fonts/CircularStd-Medium.woff') format('woff');
+//   font-weight: 500;
+//   font-style: normal;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Akkurat';
+//   src: url('/src/assets/fonts/Akkurat-Bold.woff2') format('woff2'),
+//     url('/src/assets/fonts/Akkurat-Bold.woff') format('woff');
+//   font-weight: bold;
+//   font-style: normal;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Akkurat';
+//   src: url('/src/assets/fonts/Akkurat-Italic.woff2') format('woff2'),
+//     url('/src/assets/fonts/Akkurat-Italic.woff') format('woff');
+//   font-weight: normal;
+//   font-style: italic;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Circular Std';
+//   src: url('/src/assets/fonts/CircularStd-Bold.woff2') format('woff2'),
+//     url('/src/assets/fonts/CircularStd-Bold.woff') format('woff');
+//   font-weight: bold;
+//   font-style: normal;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Akkurat';
+//   src: url('/src/assets/fonts/Akkurat-Regular.woff2') format('woff2'),
+//     url('/src/assets/fonts/Akkurat-Regular.woff') format('woff');
+//   font-weight: normal;
+//   font-style: normal;
+//   font-display: swap;
+// }
+
+@font-face {
+  font-family: 'Segoe UI';
+  src: url('/src/assets/fonts/segoe_ui.ttf') format('ttf'),
+  url('/src/assets/fonts/segoe_ui_bold.ttf') format('ttf'),
+  url('/src/assets/fonts/segoe_ui_bold_italic.ttf') format('ttf'),
+  url('/src/assets/fonts/segoe_ui_italic.ttf') format('ttf');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url('/src/assets/fonts/helvetica_neue_medium_xtended.otf') format('otf');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'San Francisco';
+  src: url('/src/assets/fonts/sfui_medium.otf') format('otf');
+  //url('/src/assets/fonts/san_francisco-webfont.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
